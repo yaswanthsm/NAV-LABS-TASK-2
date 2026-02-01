@@ -9,4 +9,5 @@ else:
     if balance < 500:
         print("Warning: Your balance is below the minimum required balance of 500.")
     else:
+
         print(f"Success! Your new balance is: {balance}")
